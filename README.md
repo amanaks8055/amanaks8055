@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Aman Sharma! 👋
 
-🌟 **Aspiring Flutter & Java Developer | Passionate Learner** 🌟
+🌟 **Aspiring Flutter & C++ Progmmer | Passionate Learner** 🌟
 
 ---
 
